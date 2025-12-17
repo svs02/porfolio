@@ -1,10 +1,11 @@
 # Taehyeok Lee
 
-Frontend-focused developer with backend exposure with 3 years of professional experience.  
+Frontend-focused Web developer with backend exposure and 3 years of professional experience.  
 I specialize in building maintainable, scalable web applications using modern JavaScript frameworks.
 
-My primary focus is on **React ⚛️, Angular 🅰️, TypeScript**, and **clean UI architecture 🎨**,  
-with hands-on experience collaborating on real-world production systems.
+My primary focus is on **React ⚛️, Angular 🅰️, TypeScript 🟦**, and **clean UI architecture 🎨**,  
+with practical experience working with **Node.js 🟢 and MongoDB 🍃**  
+and collaborating on real-world production systems.
 
 ## Portfolio
 
