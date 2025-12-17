@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/porfolio/static/css/main.4ea268fc.css",
-    "main.js": "/porfolio/static/js/main.e3e39c2b.js",
-    "static/js/453.acca0757.chunk.js": "/porfolio/static/js/453.acca0757.chunk.js",
-    "static/media/profile.png": "/porfolio/static/media/profile.c94eaf7606e61d957cdc.png",
-    "static/media/TaeHyeok_Lee_Resume.pdf": "/porfolio/static/media/TaeHyeok_Lee_Resume.327fab9f6c80b7d7ac43.pdf",
-    "index.html": "/porfolio/index.html",
-    "main.4ea268fc.css.map": "/porfolio/static/css/main.4ea268fc.css.map",
-    "main.e3e39c2b.js.map": "/porfolio/static/js/main.e3e39c2b.js.map",
-    "453.acca0757.chunk.js.map": "/porfolio/static/js/453.acca0757.chunk.js.map"
+    "main.css": "/my-portfolio/static/css/main.4ea268fc.css",
+    "main.js": "/my-portfolio/static/js/main.2188b864.js",
+    "static/js/453.acca0757.chunk.js": "/my-portfolio/static/js/453.acca0757.chunk.js",
+    "static/media/profile.png": "/my-portfolio/static/media/profile.c94eaf7606e61d957cdc.png",
+    "static/media/TaeHyeok_Lee_Resume.pdf": "/my-portfolio/static/media/TaeHyeok_Lee_Resume.327fab9f6c80b7d7ac43.pdf",
+    "index.html": "/my-portfolio/index.html",
+    "main.4ea268fc.css.map": "/my-portfolio/static/css/main.4ea268fc.css.map",
+    "main.2188b864.js.map": "/my-portfolio/static/js/main.2188b864.js.map",
+    "453.acca0757.chunk.js.map": "/my-portfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4ea268fc.css",
-    "static/js/main.e3e39c2b.js"
+    "static/js/main.2188b864.js"
   ]
 }
