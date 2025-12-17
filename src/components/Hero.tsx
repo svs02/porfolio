@@ -14,7 +14,7 @@ const Hero = () => {
     <section id="home" className="hero">
       <div className="hero-content">
         <h1 className="hero-title">
-          Full-Stack Developer
+          Web Developer
           <span className="hero-subtitle-text">
             Crafting digital experiences
           </span>
